@@ -61,6 +61,7 @@ resource "azurerm_virtual_machine" "azure_virtual_machine" {
 }
 
 /*
+Changes this to test github
 The following VMs are supported:
                -Standard_D3
                 -Standard_D4
