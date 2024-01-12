@@ -1,0 +1,11 @@
+variable "public_loadbalancer_name" {}
+variable "region" {}
+variable "resource_group_name" {}
+variable "sku_type" {}
+variable "sku_tier_regional" {}
+variable "lb_app_tag_name" {}
+variable "frontend_IP_name" {}
+variable "lb_fe_private_ip_address" {}
+variable "public_ip_address" {}
+#variable "lb_availabily_zone" {}
+#variable "frontend_subnet_id" {}
